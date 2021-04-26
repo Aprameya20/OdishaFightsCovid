@@ -34,12 +34,12 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 </style>
 <link rel='stylesheet' id='astra-menu-animation-css'  href='http://127.0.0.1:81/wordpress/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.3.3' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://127.0.0.1:81/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' media='all' />
-<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619457613' media='all' />
+<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619421812' media='all' />
 		<script>
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://127.0.0.1:81/wordpress/wp-admin/admin-ajax.php",
-				"nonce": "7632b86af2",
+				"nonce": "2f2df01862",
 				"home_url": "http://127.0.0.1:81/wordpress"
 			};
 			/* ]]\> */
@@ -343,9 +343,9 @@ var astra = {"break_point":"921","isRtl":""};
 </script>
 <script src='http://127.0.0.1:81/wordpress/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.3.3' id='astra-theme-js-js'></script>
 <script id='ea1d43322-js-extra'>
-var localize = {"ajaxurl":"http:\/\/127.0.0.1:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"9fbee98601","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+var localize = {"ajaxurl":"http:\/\/127.0.0.1:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"7df25e13d7","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
-<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619457613' id='ea1d43322-js'></script>
+<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619421812' id='ea1d43322-js'></script>
 <script src='http://127.0.0.1:81/wordpress/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
