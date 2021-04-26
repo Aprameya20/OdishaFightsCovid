@@ -34,7 +34,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 </style>
 <link rel='stylesheet' id='astra-menu-animation-css'  href='http://127.0.0.1:81/wordpress/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.3.3' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://127.0.0.1:81/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' media='all' />
-<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619379649' media='all' />
+<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619383329' media='all' />
 		<script>
 			/* <![CDATA[ */
 			var rcewpp = {
@@ -142,6 +142,40 @@ flexibility(document.documentElement);
 }
 
 /** End Block Kit CSS: 69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9 **/
+
+
+
+/** Start Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+.envato-block__preview{overflow: visible !important;}
+
+/** End Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+
+
+/** Start Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
+
+.envato-kit-138-bracket .elementor-widget-container > *:before{
+	content:"[";
+	color:#ffab00;
+	display:inline-block;
+	margin-right:4px;
+	line-height:1em;
+	position:relative;
+	top:-1px;
+}
+
+.envato-kit-138-bracket .elementor-widget-container > *:after{
+	content:"]";
+	color:#ffab00;
+	display:inline-block;
+	margin-left:4px;
+	line-height:1em;
+	position:relative;
+	top:-1px;
+}
+
+/** End Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
 
 		</style>
 		</head>
@@ -311,7 +345,7 @@ var astra = {"break_point":"921","isRtl":""};
 <script id='ea1d43322-js-extra'>
 var localize = {"ajaxurl":"http:\/\/127.0.0.1:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"1fc821655b","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
-<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619379649' id='ea1d43322-js'></script>
+<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619383329' id='ea1d43322-js'></script>
 <script src='http://127.0.0.1:81/wordpress/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
