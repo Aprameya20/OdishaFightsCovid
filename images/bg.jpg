@@ -34,12 +34,12 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 </style>
 <link rel='stylesheet' id='astra-menu-animation-css'  href='http://127.0.0.1:81/wordpress/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.3.3' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://127.0.0.1:81/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' media='all' />
-<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619420674' media='all' />
+<link rel='stylesheet' id='ea1d43322-css'  href='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1619455710' media='all' />
 		<script>
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"http://127.0.0.1:81/wordpress/wp-admin/admin-ajax.php",
-				"nonce": "2f2df01862",
+				"nonce": "7632b86af2",
 				"home_url": "http://127.0.0.1:81/wordpress"
 			};
 			/* ]]\> */
@@ -208,7 +208,7 @@ class="hfeed site" id="page">
 								</div>
 																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
 										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
-			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation ast-flex-1"><nav class="site-navigation" id="site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div id="ast-hf-menu-1" class="main-navigation ast-inline-flex"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-12 menu-item"><a href="http://127.0.0.1:81/wordpress/" class="menu-link">Bbsr</a></li><li class="page_item page-item-10 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-7 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-2 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page/" class="menu-link">Sample Page</a></li></ul></div></nav></div></div>		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation ast-flex-1"><nav class="site-navigation" id="site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div id="ast-hf-menu-1" class="main-navigation ast-inline-flex"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-12 menu-item"><a href="http://127.0.0.1:81/wordpress/" class="menu-link">Bbsr</a></li><li class="page_item page-item-928 menu-item"><a href="http://127.0.0.1:81/wordpress/bbsr-1/" class="menu-link">Bbsr-1</a></li><li class="page_item page-item-10 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-7 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-2 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page/" class="menu-link">Sample Page</a></li></ul></div></nav></div></div>		</div>
 									</div>
 												</div>
 					</div>
@@ -330,7 +330,7 @@ class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemsco
 					</div>
 					<div class="ast-mobile-popup-content">
 								<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
-			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div id="ast-hf-mobile-menu" class="main-navigation"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-12 menu-item"><a href="http://127.0.0.1:81/wordpress/" class="menu-link">Bbsr</a></li><li class="page_item page-item-10 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-7 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-2 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page/" class="menu-link">Sample Page</a></li></ul></div></nav></div></div>		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div id="ast-hf-mobile-menu" class="main-navigation"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-12 menu-item"><a href="http://127.0.0.1:81/wordpress/" class="menu-link">Bbsr</a></li><li class="page_item page-item-928 menu-item"><a href="http://127.0.0.1:81/wordpress/bbsr-1/" class="menu-link">Bbsr-1</a></li><li class="page_item page-item-10 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-7 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page-2/" class="menu-link">Sample Page</a></li><li class="page_item page-item-2 menu-item"><a href="http://127.0.0.1:81/wordpress/sample-page/" class="menu-link">Sample Page</a></li></ul></div></nav></div></div>		</div>
 							</div>
 					<div class="ast-desktop-popup-content">
 											</div>
@@ -343,9 +343,9 @@ var astra = {"break_point":"921","isRtl":""};
 </script>
 <script src='http://127.0.0.1:81/wordpress/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.3.3' id='astra-theme-js-js'></script>
 <script id='ea1d43322-js-extra'>
-var localize = {"ajaxurl":"http:\/\/127.0.0.1:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"7df25e13d7","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+var localize = {"ajaxurl":"http:\/\/127.0.0.1:81\/wordpress\/wp-admin\/admin-ajax.php","nonce":"9fbee98601","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
-<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619420674' id='ea1d43322-js'></script>
+<script src='http://127.0.0.1:81/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1619455710' id='ea1d43322-js'></script>
 <script src='http://127.0.0.1:81/wordpress/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
